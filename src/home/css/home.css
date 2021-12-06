@@ -1,0 +1,36 @@
+.carousel-item {
+    height: 630px;
+}
+
+.carousel-item img {
+    position:absolute;
+    top: 20;
+    left: 20;
+    min-height: 100px;
+    transform: scale(1.06);
+}
+
+.container p {
+    line-height: 2.0;
+}
+
+.container ul p {
+    line-height: 1.8;
+}
+.welcome{
+    font-family: 'Varela Round', sans-serif;
+    position: relative;
+    color: #ebebeb;
+   
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -650%);
+    
+}
+h1.reg{
+    font-family:'Varela Round', sans-serif;
+}
+h1.log{
+    font-family:'Varela Round', sans-serif;
+}
+

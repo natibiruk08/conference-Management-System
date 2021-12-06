@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Lora:wght@400;500;600;700&family=Varela+Round&display=swap" rel="stylesheet');
+.nav-link{
+    
+    font-family: 'Varela Round', sans-serif;
+
+
+
+}
+
+.aastu{
+    
+    font-family: 'Varela Round', sans-serif;
+font: bold 22px;
+padding: .5em .5em .5em 1em;
+
+
+}
+
+ul.signup
+{
+    font-family: 'Varela Round', sans-serif;
+}
+.btn btn-warning
+{
+    font-family: 'Varela Round', sans-serif;
+}
